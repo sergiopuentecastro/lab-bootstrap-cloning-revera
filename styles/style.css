@@ -1,10 +1,12 @@
 .cabecera {
-    padding: 0 25px;
-    justify-content: space-between;
-    align-items: center;
-    justify-items: end;
-    padding: 2%;
+    justify-content: space-evenly;
 }
+
+.navbar {
+    text-decoration:none;
+    color: grey;
+}
+
 .imagen{
     position: relative;
     font-size: 50px;
